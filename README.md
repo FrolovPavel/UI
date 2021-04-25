@@ -4,4 +4,4 @@
 ## Custom style for checkbox and radio form elements
 ![2021-04-25 18-44-45_Trim](https://user-images.githubusercontent.com/73355761/115999966-e7893980-a5f6-11eb-8f05-e820d4b81e76.gif)
 ## Wave-button
-![2021-04-06 14-28-45 (1)](https://user-images.githubusercontent.com/73355761/113727807-24e85e80-96fe-11eb-8e57-002e680764dc.gif)
+![2021-04-25 18-51-02_Trim (2)](https://user-images.githubusercontent.com/73355761/116000514-3c2db400-a5f9-11eb-98a6-2339aa6cd020.gif)
